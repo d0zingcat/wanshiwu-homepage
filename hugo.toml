@@ -1,5 +1,5 @@
 baseURL = "https://wanshiwu.fyi/"
-title   = "d0zingcat"
+title   = "万事屋工程部"
 languageCode = "zh"
 defaultContentLanguage = "zh"
 enableEmoji = true
@@ -12,10 +12,10 @@ enableEmoji = true
     path = "github.com/luizdepra/hugo-coder"
 
 [params]
-  author      = "d0zingcat"
+  author      = "无名小卒"
   info        = "全栈工程师"
-  description = "d0zingcat 的个人主页"
-  keywords    = "d0zingcat,personal,homepage"
+  description = "万事屋工程部 的个人主页"
+  keywords    = "personal,homepage"
   avatarURL   = "images/avatar.jpg"
   since       = 2026
   colorScheme = "light"
