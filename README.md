@@ -53,3 +53,4 @@ hugo mod tidy
 | 环境变量 `HUGO_VERSION` | `0.160.1` |
 
 绑定自定义域名 `wanshiwu.fyi`：Cloudflare Pages → Custom Domains，因域名已由 Cloudflare 管理，DNS 记录会自动添加。
+
