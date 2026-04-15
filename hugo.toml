@@ -19,6 +19,7 @@ enableEmoji = true
   avatarURL   = "images/avatar.jpg"
   since       = 2026
   colorScheme = "light"
+  customSCSS  = ["scss/custom.scss"]
 
 [[params.social]]
   name   = "Twitter / X"

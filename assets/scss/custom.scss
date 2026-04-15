@@ -1,0 +1,12 @@
+/* 修复头像圆形裁剪：强制正方形容器，object-fit 保证不变形，object-position 控制人物居中 */
+.avatar img {
+  width: 20rem;
+  height: 20rem;
+  object-fit: cover;
+  object-position: center center;
+
+  @media only screen and (max-width: 768px) {
+    width: 17rem;
+    height: 17rem;
+  }
+}
