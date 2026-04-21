@@ -12,7 +12,7 @@ enableEmoji = true
     path = "github.com/luizdepra/hugo-coder"
 
 [params]
-  author      = "无名小卒"
+  author      = "金时"
   info        = "全栈工程师"
   description = "万事屋工程部 的个人主页"
   keywords    = "personal,homepage"
