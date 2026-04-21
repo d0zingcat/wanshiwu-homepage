@@ -27,6 +27,12 @@ enableEmoji = true
   weight = 1
   url    = "https://x.com/d0zingcat"
 
+[[params.social]]
+  name   = "Telegram"
+  icon   = "fa-brands fa-telegram fa-2x"
+  weight = 2
+  url    = "https://t.wanshiwu.fyi"
+
 [[menu.main]]
   name   = "博客"
   weight = 1
