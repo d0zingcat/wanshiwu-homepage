@@ -1,6 +1,6 @@
 # wanshiwu-homepage
 
-[d0zingcat](https://wanshiwu.fyi) 的个人主页，部署在 [wanshiwu.fyi](https://wanshiwu.fyi)。
+[金时](https://wanshiwu.fyi) 的个人主页，部署在 [wanshiwu.fyi](https://wanshiwu.fyi)。
 
 ## 技术栈
 
