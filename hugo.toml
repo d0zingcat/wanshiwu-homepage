@@ -33,6 +33,13 @@ enableEmoji = true
   weight = 2
   url    = "https://t.wanshiwu.fyi"
 
+[[params.social]]
+  name   = "Mastodon"
+  icon   = "fa-brands fa-mastodon fa-2x"
+  weight = 3
+  url    = "https://mastodon.social/@wanshiwu"
+  rel    = "me"
+
 [[menu.main]]
   name   = "博客"
   weight = 1
