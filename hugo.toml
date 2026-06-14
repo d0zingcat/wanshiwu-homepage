@@ -31,7 +31,7 @@ enableEmoji = true
   name   = "Telegram"
   icon   = "fa-brands fa-telegram fa-2x"
   weight = 2
-  url    = "https://t.wanshiwu.fyi"
+  url    = "https://t.me/wanshiwu_fyi"
 
 [[params.social]]
   name   = "Mastodon"
